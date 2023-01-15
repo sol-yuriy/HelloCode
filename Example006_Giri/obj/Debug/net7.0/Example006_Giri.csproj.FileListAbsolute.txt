@@ -1,0 +1,15 @@
+C:\DISTR\GeekBrains\Examples\Example006_Giri\bin\Debug\net7.0\Example006_Giri.exe
+C:\DISTR\GeekBrains\Examples\Example006_Giri\bin\Debug\net7.0\Example006_Giri.deps.json
+C:\DISTR\GeekBrains\Examples\Example006_Giri\bin\Debug\net7.0\Example006_Giri.runtimeconfig.json
+C:\DISTR\GeekBrains\Examples\Example006_Giri\bin\Debug\net7.0\Example006_Giri.dll
+C:\DISTR\GeekBrains\Examples\Example006_Giri\bin\Debug\net7.0\Example006_Giri.pdb
+C:\DISTR\GeekBrains\Examples\Example006_Giri\obj\Debug\net7.0\Example006_Giri.csproj.AssemblyReference.cache
+C:\DISTR\GeekBrains\Examples\Example006_Giri\obj\Debug\net7.0\Example006_Giri.GeneratedMSBuildEditorConfig.editorconfig
+C:\DISTR\GeekBrains\Examples\Example006_Giri\obj\Debug\net7.0\Example006_Giri.AssemblyInfoInputs.cache
+C:\DISTR\GeekBrains\Examples\Example006_Giri\obj\Debug\net7.0\Example006_Giri.AssemblyInfo.cs
+C:\DISTR\GeekBrains\Examples\Example006_Giri\obj\Debug\net7.0\Example006_Giri.csproj.CoreCompileInputs.cache
+C:\DISTR\GeekBrains\Examples\Example006_Giri\obj\Debug\net7.0\Example006_Giri.dll
+C:\DISTR\GeekBrains\Examples\Example006_Giri\obj\Debug\net7.0\refint\Example006_Giri.dll
+C:\DISTR\GeekBrains\Examples\Example006_Giri\obj\Debug\net7.0\Example006_Giri.pdb
+C:\DISTR\GeekBrains\Examples\Example006_Giri\obj\Debug\net7.0\Example006_Giri.genruntimeconfig.cache
+C:\DISTR\GeekBrains\Examples\Example006_Giri\obj\Debug\net7.0\ref\Example006_Giri.dll
