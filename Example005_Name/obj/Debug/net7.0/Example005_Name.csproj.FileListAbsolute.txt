@@ -1,0 +1,15 @@
+C:\DISTR\GeekBrains\Examples\Example005_Name\obj\Debug\net7.0\Example005_Name.csproj.AssemblyReference.cache
+C:\DISTR\GeekBrains\Examples\Example005_Name\obj\Debug\net7.0\Example005_Name.GeneratedMSBuildEditorConfig.editorconfig
+C:\DISTR\GeekBrains\Examples\Example005_Name\obj\Debug\net7.0\Example005_Name.AssemblyInfoInputs.cache
+C:\DISTR\GeekBrains\Examples\Example005_Name\obj\Debug\net7.0\Example005_Name.AssemblyInfo.cs
+C:\DISTR\GeekBrains\Examples\Example005_Name\obj\Debug\net7.0\Example005_Name.csproj.CoreCompileInputs.cache
+C:\DISTR\GeekBrains\Examples\Example005_Name\bin\Debug\net7.0\Example005_Name.exe
+C:\DISTR\GeekBrains\Examples\Example005_Name\bin\Debug\net7.0\Example005_Name.deps.json
+C:\DISTR\GeekBrains\Examples\Example005_Name\bin\Debug\net7.0\Example005_Name.runtimeconfig.json
+C:\DISTR\GeekBrains\Examples\Example005_Name\bin\Debug\net7.0\Example005_Name.dll
+C:\DISTR\GeekBrains\Examples\Example005_Name\bin\Debug\net7.0\Example005_Name.pdb
+C:\DISTR\GeekBrains\Examples\Example005_Name\obj\Debug\net7.0\Example005_Name.dll
+C:\DISTR\GeekBrains\Examples\Example005_Name\obj\Debug\net7.0\refint\Example005_Name.dll
+C:\DISTR\GeekBrains\Examples\Example005_Name\obj\Debug\net7.0\Example005_Name.pdb
+C:\DISTR\GeekBrains\Examples\Example005_Name\obj\Debug\net7.0\Example005_Name.genruntimeconfig.cache
+C:\DISTR\GeekBrains\Examples\Example005_Name\obj\Debug\net7.0\ref\Example005_Name.dll
